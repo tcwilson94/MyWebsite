@@ -1,0 +1,6 @@
+---
+title: "EvoGenLab"
+output: html_document
+---
+
+Link to my laboratory repository: https://tcwilson94.github.io/GenomicsCourse/
